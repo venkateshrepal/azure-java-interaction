@@ -1,0 +1,10 @@
+/home/zcon/MahaTransco_WorkSpace/azuretest/src/main/java/com/zcon/azure/configuration/SpringAppConfiguration.java
+/home/zcon/MahaTransco_WorkSpace/azuretest/src/main/java/com/zcon/azure/configuration/SpringAppInitializer.java
+/home/zcon/MahaTransco_WorkSpace/azuretest/src/main/java/com/zcon/azure/configuration/StatelessAuthenticationSecurityConfig.java
+/home/zcon/MahaTransco_WorkSpace/azuretest/src/main/java/com/zcon/azure/servicesImpl/FileHandlingServiceImpl.java
+/home/zcon/MahaTransco_WorkSpace/azuretest/src/main/java/com/zcon/azure/filter/CORSFilter.java
+/home/zcon/MahaTransco_WorkSpace/azuretest/src/main/java/com/zcon/azure/restController/FileHandlingController.java
+/home/zcon/MahaTransco_WorkSpace/azuretest/src/main/java/com/zcon/azure/DaoImpl/FileClientProvider.java
+/home/zcon/MahaTransco_WorkSpace/azuretest/src/main/java/com/zcon/azure/services/IFileHandlingServices.java
+/home/zcon/MahaTransco_WorkSpace/azuretest/src/main/java/com/zcon/azure/DAO/IFileHandlingDao.java
+/home/zcon/MahaTransco_WorkSpace/azuretest/src/main/java/com/zcon/azure/DaoImpl/FileHandlingDaoImpl.java
