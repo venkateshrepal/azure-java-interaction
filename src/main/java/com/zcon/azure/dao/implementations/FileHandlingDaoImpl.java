@@ -1,4 +1,4 @@
-package com.zcon.azure.implementations;
+package com.zcon.azure.dao.implementations;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;

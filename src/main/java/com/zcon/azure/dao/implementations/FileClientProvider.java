@@ -1,4 +1,4 @@
-package com.zcon.azure.implementations;
+package com.zcon.azure.dao.implementations;
 import com.microsoft.azure.storage.CloudStorageAccount;
 import com.microsoft.azure.storage.SharedAccessAccountPermissions;
 import com.microsoft.azure.storage.SharedAccessAccountPolicy;
@@ -7,7 +7,7 @@ import com.microsoft.azure.storage.SharedAccessAccountService;
 import com.microsoft.azure.storage.SharedAccessProtocols;
 import com.microsoft.azure.storage.StorageException;
 import com.microsoft.azure.storage.file.CloudFileClient;
-import com.zcon.azure.implementations.FileHandlingDaoImpl;
+import com.zcon.azure.dao.implementations.FileHandlingDaoImpl;
 
 import java.io.IOException;
 import java.io.InputStream;
